@@ -1,0 +1,11 @@
+body{background-color: #fdf6e3;}
+header , footer {font-size: 2em;}
+nav ul {font-family: sans-serif}
+#logo {border: 2px solid #d04b16;}
+.wrapper{background-color: #eee8d5;}
+#contents , #favs , #facts, #types {color: #fff;}
+.wrapper > .dfn {background-color: #b58900;}
+p + strong {color: #fff;}
+html header nav ul mark {background-color: #2694d8;}
+#contents li a {background-clor: #2694d8;}
+ol > il {color: #719e47;}
